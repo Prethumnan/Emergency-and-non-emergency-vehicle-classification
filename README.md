@@ -2,7 +2,7 @@
 This project aims to build a machine learning model that can classify images of emergency and non-emergency vehicles. The model is built using deep learning techniques, specifically convolutional neural networks (CNN), and trained on a dataset of images containing various types of emergency and non-emergency vehicles.
 
 ## Dataset
-The dataset used for this project consists of a set of images of emergency and non-emergency vehicles. The images were collected from various sources and labeled as either emergency or non-emergency based on their visual characteristics. The dataset contains a total of 10,000 images, with 5,000 images each for the emergency and non-emergency categories.
+The dataset used for this project consists of a set of images of emergency and non-emergency vehicles. The images were collected from various sources and labeled as either emergency or non-emergency based on their visual characteristics. The dataset contains a total of 1646 images for the emergency and non-emergency categories.
 
 ## Model Architecture
 The model architecture used for this project is a convolutional neural network (CNN) consisting of multiple convolutional layers followed by max-pooling layers and fully connected layers. The model uses the Rectified Linear Unit (ReLU) activation function and dropout regularization to prevent overfitting.
